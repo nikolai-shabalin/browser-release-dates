@@ -1,6 +1,6 @@
 {
   "name": "browser-release-dates",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "📃 List of popular browser releases",
   "main": "index.js",
   "scripts": {
