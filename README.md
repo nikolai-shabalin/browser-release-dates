@@ -6,7 +6,7 @@
 ## Install
 ```shell
 npm install browser-release-dates
-``
+```
 
 ## Usage
 
